@@ -1,2 +1,0 @@
-streamlit==1.45.1
-cryptography==42.0.5
